@@ -1,0 +1,382 @@
+body{
+    width: 100%;
+    
+}
+div.header{
+    top:0px;
+    left: 0px;
+    width: 100%;
+    height: 105px;
+	
+    
+}
+
+svg.boxhead{
+	top:0px;
+    left: 0px;
+    width: 100%;
+    height: 105px;
+    position: absolute; 
+	background: black;
+	opacity:0.5;
+}
+h1.nameH{
+    left: 25px;
+		top: 25px;
+		position: absolute;
+		overflow: visible;
+		width: 213px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Lucida Fax;
+		font-style: italic;
+		font-weight: bold;
+		font-size: 54px;
+		color: rgba(255,255,255,1);
+}
+
+a.home1{
+	left: 1107px;
+		top: 30.5px;
+		position: absolute;
+		overflow: visible;
+		width: 93px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-weight: lighter;
+		font-size: 35px;
+		color: rgba(255,255,255,1);
+}
+hr.line1{
+	overflow: visible;
+	position: absolute;
+		width: 1px;
+		height: 70px;
+		left: 1215.5px;
+		top: 10px;
+		background-color: white;
+		
+}
+a.hobbies1{
+	left: 1240px;
+		top: 30.5px;
+		position: absolute;
+		overflow: visible;
+		width: 126px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		
+		font-weight: lighter;
+		font-size: 35px;
+		color: rgba(0,246,255,1);
+}
+hr.line2{
+	overflow: visible;
+		position: absolute;
+		width: 1px;
+		height: 70px;
+		left: 1388.5px;
+		top: 10px;
+		background-color: white;
+}
+
+a.works1{
+	left: 1411px;
+		top: 30.5px;
+		position: absolute;
+		overflow: visible;
+		width: 95px;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: lighter;
+		font-size: 35px;
+		color: rgba(255,255,255,1);
+	
+}
+hr.line3{
+	overflow: visible;
+		position: absolute;
+		width: 1px;
+		height: 70px;
+		left: 1525.5px;
+		top: 10px;
+	
+		background-color: white;
+}
+a.favorite1{
+	left: 1549px;
+		top: 30.5px;
+		position: absolute;
+		overflow: visible;
+		width: 95px;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: lighter;
+		font-size: 35px;
+		color: rgba(255,255,255,1);
+}
+hr.line4{
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 70px;
+	left: 1704.5px;
+	top: 10px;
+	background-color: white;
+	
+}
+a.contact1{
+	left: 1728px;
+		top: 28.5px;
+		position: absolute;
+		overflow: visible;
+		width: 118px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: lighter;
+		font-size: 35px;
+		color: rgba(255,255,255,1);
+}
+
+	svg.gradblack{
+		top:0px;
+		left:0px;
+		position: absolute;
+		width:100%;
+		height: 3557px;
+		z-index: -1;
+background-color: black;
+	}
+	
+    h1.hobbh1{
+        filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 1));
+		left: 51px;
+		top: 189px;
+		position: absolute;
+		overflow: visible;
+		width: 387px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Candara;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 110px;
+		color: rgba(0,246,255,1);
+    }
+    p.pgames1{
+        left: 51px;
+		top: 392px;
+		position: absolute;
+		overflow: visible;
+		width: 371px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 37px;
+		color: rgba(255,255,255,1);
+    }
+    p.pgamesi1{
+        left: 51px;
+		top: 488px;
+		position: absolute;
+		overflow: visible;
+		width: 1686px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 31px;
+		color: rgba(255,255,255,1);
+}
+p.pgames2{
+    left: 51px;
+		top: 699px;
+		position: absolute;
+		overflow: visible;
+		width: 233px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Segoe UI;
+		font-style: italic;
+		font-weight: normal;
+		font-size: 32px;
+		color: rgba(255,255,255,1);
+}
+p.pgames3{
+    left: 51px;
+		top: 758px;
+		position: absolute;
+		overflow: visible;
+		width: 264px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 31px;
+		color: rgba(255,255,255,1);
+		text-decoration: underline;
+}
+img.gamel1{
+    position: absolute;
+		width: 1651px;
+		height: 559px;
+		left: 51px;
+		top: 846px;
+		overflow: visible;
+}
+p.pgames4{
+    left: 51px;
+		top: 1452px;
+		position: absolute;
+		overflow: visible;
+		width: 131px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 31px;
+		color: rgba(255,255,255,1);
+		text-decoration: underline;
+}
+img.minel1{
+    position: absolute;
+		width: 1651px;
+		height: 714px;
+		left: 51px;
+		top: 1540px;
+		overflow: visible;
+}
+p.rd1{
+    left: 51px;
+		top: 2291px;
+		position: absolute;
+		overflow: visible;
+		width: 379px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 37px;
+		color: rgba(255,255,255,1);
+}
+p.rd2{
+    left: 51px;
+		top: 2373px;
+		position: absolute;
+		overflow: visible;
+		width: 1707px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 31px;
+		color: rgba(255,255,255,1);
+}
+p.rd3{
+    left: 51px;
+		top: 2543px;
+		position: absolute;
+		overflow: visible;
+		width: 119px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Segoe UI;
+		font-style: italic;
+		font-weight: normal;
+		font-size: 32px;
+		color: rgba(255,255,255,1);
+}
+p.rd4{
+    left: 51px;
+		top: 2633px;
+		position: absolute;
+		overflow: visible;
+		width: 524px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 31px;
+		color: rgba(255,255,255,1);
+		text-decoration: underline;
+}
+img.draw1{
+    position: absolute;
+		width: 1651px;
+		height: 722px;
+		left: 51px;
+		top: 2721px;
+		overflow: visible;
+}
+svg.footbox5{
+	position: absolute;
+		overflow: visible;
+		width: 100%;
+		height: 150px;
+		left: 0px;
+		top: 3557px;
+		background-color:#2E2D2D;
+		z-index: -1;
+}
+img.logocat{
+	position: absolute;
+		width: 92px;
+		height: 88px;
+		left: 53px;
+		top: 3588px;
+		overflow: visible;
+}
+p.ffoll{
+	left: 1435px;
+		top: 3579px;
+		position: absolute;
+		overflow: visible;
+		width: 78px;
+		white-space: nowrap;
+		line-height: 40px;
+		margin-top: -6.5px;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 27px;
+		color: rgba(255,255,255,1);
+}
+img.twit1{
+	position: absolute;
+	width: 72px;
+	height: 68px;
+	left: 1532px;
+	top: 3617px;
+	overflow: visible;
+}
+img.face1{
+	position: absolute;
+	width: 72px;
+	height: 68px;
+	left: 1435px;
+	top: 3617px;
+	overflow: visible;
+}
+img.instag1{
+	position: absolute;
+	width: 72px;
+	height: 68px;
+	left: 1629px;
+	top: 3617px;
+	overflow: visible;
+}

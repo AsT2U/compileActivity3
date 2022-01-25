@@ -1,0 +1,561 @@
+body{
+    width: 100%;
+    
+}
+div.header{
+    top:0px;
+    left: 0px;
+    width: 100%;
+    height: 105px;
+	
+    
+}
+
+svg.boxhead{
+	top:0px;
+    left: 0px;
+    width: 100%;
+    height: 105px;
+    position: absolute; 
+	background: black;
+	opacity:0.5;
+}
+h1.nameH{
+    left: 25px;
+		top: 25px;
+		position: absolute;
+		overflow: visible;
+		width: 213px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Lucida Fax;
+		font-style: italic;
+		font-weight: bold;
+		font-size: 54px;
+		color: rgba(255,255,255,1);
+}
+
+a.home1{
+	left: 1107px;
+		top: 30.5px;
+		position: absolute;
+		overflow: visible;
+		width: 93px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-weight: lighter;
+		font-size: 35px;
+		color: rgba(0,246,255,1);
+}
+hr.line1{
+	overflow: visible;
+	position: absolute;
+		width: 1px;
+		height: 70px;
+		left: 1215.5px;
+		top: 10px;
+		background-color: white;
+		
+}
+a.hobbies1{
+	left: 1240px;
+		top: 30.5px;
+		position: absolute;
+		overflow: visible;
+		width: 126px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		
+		font-weight: lighter;
+		font-size: 35px;
+		color: rgba(255,255,255,1);
+}
+hr.line2{
+	overflow: visible;
+		position: absolute;
+		width: 1px;
+		height: 70px;
+		left: 1388.5px;
+		top: 10px;
+		background-color: white;
+}
+
+a.works1{
+	left: 1411px;
+		top: 30.5px;
+		position: absolute;
+		overflow: visible;
+		width: 95px;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: lighter;
+		font-size: 35px;
+		color: rgba(255,255,255,1);
+	
+}
+hr.line3{
+	overflow: visible;
+		position: absolute;
+		width: 1px;
+		height: 70px;
+		left: 1525.5px;
+		top: 10px;
+	
+		background-color: white;
+}
+a.favorite1{
+	left: 1549px;
+		top: 30.5px;
+		position: absolute;
+		overflow: visible;
+		width: 95px;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: lighter;
+		font-size: 35px;
+		color: rgba(255,255,255,1);
+}
+hr.line4{
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 70px;
+	left: 1704.5px;
+	top: 10px;
+	background-color: white;
+	
+}
+a.contact1{
+	left: 1728px;
+		top: 28.5px;
+		position: absolute;
+		overflow: visible;
+		width: 118px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: lighter;
+		font-size: 35px;
+		color: rgba(255,255,255,1);
+}
+div.infobgpage{
+	left: 0px;
+	top:0px;
+	width:100%;
+	height:1080px;
+	position: absolute;
+	z-index: -3;
+	}
+	svg.gradblack{
+		top:0px;
+		left:0px;
+		position: absolute;
+		width:100%;
+		height: 1080px;
+		z-index: -2;
+background-image: linear-gradient(180deg, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 44%, rgba(0,0,0,0.5494572829131652) 100%);
+	}
+	img.bacg{
+		left: 0px;
+		top:0px;
+		width: 960px;
+		height:1080px;
+		position: absolute;
+	}
+	img.bacg2{
+		left: 960px;
+		top:0px;
+		width: 960px;
+		height:1080px;
+		position: absolute;
+	}
+	img.mepic1{
+		filter: drop-shadow(0px 3px 6px rgba(27, 43, 148, 0.788));
+		position: absolute;
+		width: 968px;
+		height: 1280px;
+		left: 919px;
+		top: -200px;
+		overflow: visible;
+		z-index: -1;
+	}
+	h1.greeting1{
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 1));
+		left: 51px;
+		top: 230px;
+		position: absolute;
+		overflow: visible;
+		width: 849px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Candara;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 110px;
+		color: rgba(255,255,255,1);
+	}
+	h1.greeting2{
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 1));
+		left: 51px;
+		top: 371px;
+		position: absolute;
+		overflow: visible;
+		width: 869px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Candara;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 110px;
+		color: rgba(0,246,255,1);
+	}
+	p.wonder1{
+		left: 51px;
+		top: 597px;
+		position: absolute;
+		overflow: visible;
+		width: 900px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 35px;
+		color: rgba(255,255,255,1);
+	}
+	div.theabout{
+		position: absolute;
+		width: 1920px;
+		height: 3166px;
+		left: 0px;
+		top: 1080px;
+		overflow: visible;
+	}
+	svg.aboutbox{
+		overflow: visible;
+		position: absolute;
+		width: 960px;
+		height: 3166px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+		background-color: #07173D;
+		z-index: -1;
+	}
+	svg.infoabout1{
+		position: absolute;
+		overflow: visible;
+		width: 960px;
+		height: 3166px;
+		left: 960px;
+		top: 0px;
+		background: black;
+		z-index: -1;
+	}
+	h1.bigabout{
+		left: 245px;
+		top: 967px;
+		position: absolute;
+		overflow: visible;
+		width: 471px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Harlow Solid;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 171px;
+		color: rgba(255,255,255,1);
+	}
+	img.midpic{
+		position: absolute;
+		width: 367px;
+		height: 363px;
+		left: 777px;
+		top: 1001px;
+		overflow: visible;
+	}
+	h1.ed1{
+		left: 1060px;
+		top: 183px;
+		position: absolute;
+		overflow: visible;
+		width: 145px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 31px;
+		color: rgba(255,255,255,1);
+	}
+	p.ed2{
+		left: 1060px;
+		top: 268px;
+		position: absolute;
+		overflow: visible;
+		width: 762px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 31px;
+		color: rgba(255,255,255,1);
+
+	}
+	h1.mys1{
+		left: 1060px;
+		top: 646px;
+		position: absolute;
+		overflow: visible;
+		width: 99px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 31px;
+		color: rgba(255,255,255,1);
+	}
+	p.mys2{
+		left: 1060px;
+		top: 731px;
+		position: absolute;
+		overflow: visible;
+		width: 415px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 31px;
+		color: rgba(255,255,255,1);
+	}
+	h1.skill1{
+		left: 1169px;
+		top: 947px;
+		position: absolute;
+		overflow: visible;
+		width: 255px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 31px;
+		color: rgba(255,255,255,1);
+	}
+	p.skill2{
+		left: 1169px;
+		top: 1031px;
+		position: absolute;
+		overflow: visible;
+		width: 670px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 31px;
+		color: rgba(255,255,255,1);
+	}
+p.exp1{
+	left: 1060px;
+		top: 1525px;
+		position: absolute;
+		overflow: visible;
+		width: 778px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 31px;
+		color: rgba(255,255,255,1);
+}
+h1.knowld1{
+	left: 1060px;
+		top: 1836px;
+		position: absolute;
+		overflow: visible;
+		width: 161px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 31px;
+		color: rgba(255,255,255,1);
+}
+p.knowld2{
+	left: 1060px;
+		top: 1921px;
+		position: absolute;
+		overflow: visible;
+		width: 712px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 31px;
+		color: rgba(255,255,255,1);
+}
+h1.exp3{
+	left: 1004px;
+		top: 2150px;
+		position: absolute;
+		overflow: visible;
+		width: 434px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 31px;
+		color: rgba(255,255,255,1);
+}
+img.coke{
+	position: absolute;
+		overflow: visible;
+		width: 950px;
+		height: 584px;
+		left: 960px;
+		top: 2250px;
+		z-index: -1;
+		
+}
+button.butt1{
+	font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+	height: 28px;
+	width:28px;
+	background-color: black;
+	top:2790px;
+	left:1390px;
+	position:absolute;
+	border-radius: 50%;
+}
+button.butt2{
+	font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+	height: 28px;
+	width:28px;
+	background-color: black;
+	top:2790px;
+	left:1466.91px;
+	position:absolute;
+	border-radius: 50%;
+}
+p.expdesc{
+	left: 1000px;
+		top: 2900px;
+		position: absolute;
+		overflow: visible;
+		width: 712px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 31px;
+		color: rgba(255,255,255,1);
+}
+svg.contactt1{
+	position: absolute;
+		overflow: visible;
+		width: 960px;
+		height: 609px;
+		left: 0px;
+		top: 4244px;
+		background-color: rgba(46,45,45,1);
+}
+h1.contactt2{
+	left: 170px;
+		top: 4450px;
+		position: absolute;
+		overflow: visible;
+		width: 515px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Harlow Solid;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 171px;
+		color: rgba(255,255,255,1);
+}
+p.if1{
+	left: 1018px;
+		top: 4288px;
+		position: absolute;
+		overflow: visible;
+		width: 797px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 31px;
+		color: rgba(0,0,0,1);
+}
+h1.follow1{
+	left: 1018px;
+		top: 4414px;
+		position: absolute;
+		overflow: visible;
+		width: 417px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 69px;
+		color: rgba(0,0,0,1);
+}
+a.email1{
+	left: 1018px;
+		top: 4640px;
+		position: absolute;
+		overflow: visible;
+		width: 365px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 32px;
+		color: rgba(0,0,0,1);
+		text-decoration: underline;
+}
+img.twit1{
+	position: absolute;
+		width: 72px;
+		height: 68px;
+		left: 1018px;
+		top: 4750px;
+		overflow: visible;
+}
+img.face1{
+	position: absolute;
+		width: 72px;
+		height: 68px;
+		left: 1112px;
+		top: 4750px;
+		overflow: visible;
+}
+img.instag1{
+	position: absolute;
+		width: 72px;
+		height: 68px;
+		left: 1206px;
+		top: 4750px;
+		overflow: visible;
+}
+

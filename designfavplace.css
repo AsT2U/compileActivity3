@@ -1,0 +1,576 @@
+div.header{
+    width:1920px;
+     height:112px;
+   
+   }
+   p.logo1{
+     left: 3px;
+           top: -47px;
+           position: absolute;
+           overflow: visible;
+           width: 110px;
+       text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+           text-align: left;
+           font-family: Eras ITC;
+           font-size: 55px;
+           color: rgba(182,117,1,1);
+           letter-spacing: 0.2px;
+     
+   }
+   p.logo2{
+     left: 45px;
+           top: 20px;
+           position: absolute;
+           overflow: visible;
+           width: 135px;
+     text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+           white-space: nowrap;
+           font-family: Eras ITC;
+           font-size: 36px;
+           color: rgba(182,117,1,1);
+           letter-spacing: 0.2px;
+   }
+   p.logo3{
+     left: 255px;
+           top: 15px;
+           position: absolute;
+           overflow: visible;
+           width: 58px;
+           white-space: nowrap;
+     text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+           text-align: left;
+           font-family: Eras ITC;
+           font-style: normal;
+           font-weight: normal;
+           font-size: 36px;
+           color: rgba(0,153,204,1);
+           letter-spacing: 0.2px;
+   }
+   svg.boxhead{
+     width:1920px;
+     height: 112px;
+   position:absolute;
+     top:0px;
+     left:0px;
+     background-color:black;
+     opacity:0.6;
+     z-index:-1;
+   }
+   img.falls{
+     position:absolute;
+     top:-16px;
+     left:170px;
+   }
+   
+   a.explo{
+     left: 953px;
+           top: 39px;
+           position: absolute;
+           overflow: visible;
+           width: 124px;
+           font-family: Eras ITC;
+           font-size: 35px;
+           color: rgba(255,255,255,1);
+           letter-spacing: 0.32px;
+   }
+   a.galle{
+     left: 1115px;
+           top: 39px;
+           position: absolute;
+           width: 116px;
+           white-space: nowrap;
+           font-family: Eras ITC;
+           font-size: 35px;
+           color: rgba(255,255,255,1);
+           letter-spacing: 0.32px;
+   }
+   a.about{
+     left: 1269px;
+           top: 39px;
+           position: absolute;
+           width: 104px;
+           text-align: left;
+           font-family: Eras ITC;
+           font-size: 35px;
+           color: rgba(255,255,255,1);
+           letter-spacing: 0.32px;
+   }
+   a.help{
+     left: 1411px;
+           top: 39px;
+           position: absolute;
+           overflow: visible;
+           width: 77px;
+           white-space: nowrap;
+           text-align: left;
+           font-family: Eras ITC;
+           font-style: normal;
+           font-weight: normal;
+           font-size: 35px;
+           color: rgba(255,255,255,1);
+           letter-spacing: 0.32px;
+   }
+   input.search{
+     width:320px;
+     height:33px;
+     top:39px;
+     left:1526px;
+     position:absolute;
+           font-family: Leelawadee UI;
+           font-size: 19px;
+     background-color:#000000;
+     color:#FFFFFF;
+   }
+   img.backgimg{
+     width:1920px;
+     height:1123px;
+     top:0px;
+     left:0px;
+     position:absolute;
+     z-index:-3;
+   }
+   div.front{
+     width:1920px;
+     height:1123px;
+     top:115px;
+     left:0px;
+     position:absolute;
+   }
+   p.talem{
+     filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 1));
+           left: 219px;
+           top: 738px;
+           position: absolute;
+           overflow: visible;
+           width: 1483px;
+           font-family: Lucida Bright;
+           font-size: 45px;
+           color: rgba(255,255,255,1);
+           letter-spacing: 0.32px;
+           text-transform: uppercase;
+   }
+   svg.gradient1{
+     width:1920px;
+     position:absolute;
+     height:1114px;
+     top:-30px;
+     left:0px;
+     background-image:linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0.1) 100%);
+       z-index:-2;
+   }
+   hr.line1{
+     filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 1));
+           overflow: visible;
+           position: absolute;
+           width: 1119.03px;
+           left: 400px;
+           top: 710px;
+   
+   }
+   hr.line2{
+     filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 1));
+           overflow: visible;
+           position: absolute;
+           width: 1119.03px;
+     left: 400px;
+     top:890px;
+   }
+   div.front2{
+     width:1920px;
+     position:absolute;
+     height:1484px;
+     left:0px;
+     top:1079px;
+     background-image:linear-gradient(0deg, rgba(220,241,255,1) 20%, rgba(0,0,0,1) 100%);
+     z-index:-2;
+   }
+   svg.twinbox{
+     width:1631px;
+     height:1161px;
+     position:absolute;
+     top:150px;
+     left:144.5px;
+      border-radius:12%;
+     background-color:#8DEB89;
+     z-index:-1;
+   }
+   p.thetwin{
+     left: 344.5px;
+           top: 216.5px;
+           position: absolute;
+           overflow: visible;
+           width: 387px;
+           white-space: nowrap;
+           text-align: center;
+           font-family: Viner Hand ITC;
+           font-style: normal;
+           font-weight: normal;
+           font-size: 56px;
+           color: rgba(0,0,0,1);
+   }
+   p.desc1{
+     left:234.5px;
+     top:420px;
+           position: absolute;
+           overflow: visible;
+           width: 703px;
+           white-space: nowrap;
+           line-height: 40px;
+           margin-top: -8px;
+           text-align: left;
+           font-family: Verdana;
+           font-style: italic;
+           font-weight: normal;
+           font-size: 24px;
+           color: rgba(0,0,0,1);
+   }
+   img.imgdraw{
+     position: absolute;
+           width: 752.38px;
+           height: 1180.649px;
+           left: 1005px;
+           top: 90px;
+           overflow: visible;
+     border-radius:12%;
+     transform: perspective(1000px) rotateY(-15deg);
+   }
+   div.front3{
+     width:1920px;
+     height:1670px;
+     top:2560px;
+     left:0px;
+     position:absolute;
+     background-color:#DCF1FF;
+     z-index:-2;
+   }
+   svg.circlog{
+     width:196px;
+     height:190px;
+     position:absolute;
+     border-radius:50%;
+     border: 4px solid #000000;
+     background-color:#FFFFFF;
+     top:50px;
+     left:862px;
+     z-index:-1;
+   }
+   img.watericon{
+     width:126px;
+     height:120px;
+     left:898px;
+     position:absolute;
+     top:89px;
+   }
+   p.mj23{
+     filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 1));
+     text-shadow: -2px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+           left: 510.5px;
+           top: 270px;
+           position: absolute;
+           overflow: visible;
+           width: 908px;
+           text-align: center;
+           font-family: Lucida Bright;
+           font-weight: bold;
+           font-size: 49px;
+           color: rgba(255,255,255,1);
+   }
+   p.mj23d{
+     left: 704px;
+           top: 390px;
+           position: absolute;
+           width: 513px;
+           text-align: center;
+           font-family: Leelawadee UI;
+           font-size: 25px;
+           color: rgba(0,0,0,1);
+   }
+   svg.tinago{
+     width:668px;
+     height:695px;
+     background-color:black;
+     border-radius:10%;
+     position:absolute;
+     top:625px;
+     left:108px
+   }
+   img.tinagof{
+     width:668px;
+     height:412px;
+     position:absolute;
+     border-radius: 12%;
+     top:620px;
+     left:108px;
+   }
+   p.tinagot{
+     filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 1));
+           left: 334px;
+           top: 945px;
+           position: absolute;
+           width: 218px;
+           white-space: nowrap;
+           text-align: center;
+           font-family: Lucida Bright;
+           font-style: italic;
+           font-size: 28px;
+           color: rgba(255,255,255,1);
+           letter-spacing: 0.32px;
+           text-transform: uppercase;
+   }
+   p.tinagop{
+     left: 201px;
+           top: 1060px;
+           position: absolute;
+           width: 483px;
+           text-align: center;
+           font-family: Leelawadee UI;
+           font-size: 25px;
+           color: rgba(255,255,255,1);
+   }
+   svg.limusu{
+     width:668px;
+     height:695px;
+     left:1144px;
+     position:absolute;
+     top:625px;
+     background-color:black;
+     border-radius:10%;
+   }
+   img.limusuf{
+     width:668px;
+     height:412px;
+     position:absolute;
+     border-radius: 12%;
+     top:620px;
+     left:1144px;
+   }
+   p.limusut{
+     filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 1));
+           left: 1330px;
+           top: 945px;
+           position: absolute;
+           overflow: visible;
+           width: 298px;
+           white-space: nowrap;
+           text-align: center;
+           font-family: Lucida Bright;
+           font-style: italic;
+           font-weight: normal;
+           font-size: 28px;
+           color: rgba(255,255,255,1);
+           letter-spacing: 0.32px;
+           text-transform: uppercase;
+   }
+   p.limusud{
+     left: 1193px;
+           top: 1060px;
+           position: absolute;
+           overflow: visible;
+           width: 575px;
+           white-space: nowrap;
+           text-align: center;
+           font-family: Leelawadee UI;
+           font-size: 25px;
+           color: rgba(255,255,255,1);
+   }
+   button.expbtn{
+     width:196px;
+     height:190px;
+     left:862px;
+     top:1410px;
+     border-radius:50%;
+     position:absolute;
+           text-align: center;
+           font-family: Leelawadee UI;
+           font-weight: bold;
+           font-size: 38px;
+           color: rgba(0,0,0,1);
+           text-transform: uppercase;
+     background-color:white;
+   }
+   hr.line3{
+           position: absolute;
+           width: 547px;
+           left: 1144px;
+           top: 145px;
+      background-color:black;
+      border: 3px solid #000000;
+   }
+   hr.line4{
+     position:absolute;
+       background-color:black;
+      border: 3px solid #000000;
+     width:547px;
+     left:229px;
+     top:145px;
+   }
+   hr.line5{
+     width:547px;
+     position:absolute;
+       background-color:black;
+      border: 3px solid #000000;
+     top:1510px;
+     left:229px;
+   }
+   hr.line6{
+     width:547px;
+     position:absolute;
+       background-color:black;
+      border: 3px solid #000000;
+     top:1510px;
+     left:1144px;
+   }
+   div.front4{
+     width:1920px;
+     height:793px;
+     top:4229px;
+     left:0px;
+     position:absolute;
+     background: rgb(74,199,153);
+   background: linear-gradient(90deg, rgba(74,199,153,1) 29%, rgba(73,165,229,0) 100%);
+   }
+   img.pic1{
+     width:743px;
+     height:479px;
+     position:absolute;
+     left:741px;
+     z-index:-1;
+   }
+   img.pic2{
+     position:absolute;
+     width:762px;
+     height:448px;
+     left:1158px;
+     top:342px;
+     z-index:-1;
+   }
+   p.visitw{
+     filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+           left: 29px;
+           top:10px;
+           position: absolute;
+           overflow: visible;
+           width: 628px;
+     text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+           white-space: nowrap;
+           font-family: Lucida Bright;
+           font-style: italic;
+           font-size: 63px;
+           color: rgba(255,255,255,1);
+           text-decoration: underline;
+   }
+   p.visitp{
+     filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+           left: 29px;
+           top: 190px;
+           position: absolute;
+           width: 749px;
+           line-height: 42px;
+           margin-top: -8.5px;
+           text-align: left;
+           font-family: Leelawadee UI;
+           font-size: 25px;
+           color: rgba(255,255,255,1);
+   }
+   div.front5{
+     width:1920px;
+     height:383px;
+     position:absolute;
+     left:0px;
+     top: 5022px;
+     background: rgb(39,125,148);
+   background: linear-gradient(90deg, rgba(39,125,148,1) 0%, rgba(106,106,106,1) 50%, rgba(105,171,147,1) 100%);
+   }
+   p.beaty{
+     filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+           left: 756px;
+           top: 40px;
+           position: absolute;
+           width: 409px;
+           line-height: 88px;
+           margin-top: -18px;
+           text-align: left;
+           font-family: Rockwell;
+           font-size: 52px;
+           color: rgba(255,255,255,1);
+   }
+   p.reason1{
+     filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+           left: 493.5px;
+           top: 130px;
+           position: absolute;
+           width: 933px;
+           white-space: nowrap;
+           line-height: 44px;
+           margin-top: -9px;
+           text-align: center;
+           font-family: Rockwell;
+           font-size: 26px;
+           color: rgba(255,255,255,1);
+   }
+   div.foote{
+     height:263px;
+     width:1920px;
+     top:5405px;
+     left:0px;
+     position:absolute;
+     background:#393939;
+   }
+   img.dorime{
+     filter: grayscale(100%);
+   left:72px;
+     position:absolute;
+     top:120px;
+   }
+   p.name{
+     filter: drop-shadow(0px 3px 6px rgba(255, 255, 255, 0.161));
+      text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+           left: 169px;
+           top: 162px;
+           position: absolute;
+           width: 212px;
+           line-height: 83px;
+           margin-top: -17px;
+           text-align: left;
+           font-family: Rage;
+           font-style: italic;
+           font-size: 49px;
+           color: rgba(255,255,255,1);
+   }
+   img.fb1{
+     position:absolute;
+     width:86px;
+     height:86px;
+     top:120px;
+     left:1264px;
+   }
+   img.twit1{
+     width:81px;
+     height:86px;
+     left:1381px;
+     top:120px;
+     position:absolute;
+   }
+   img.yout1{
+     width:81px;
+     height:86px;
+     left:1493px;
+     top:120px;
+     position:absolute;
+   }
+   p.follow{
+     filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+           left: 1264px;
+           top: 49px;
+           position: absolute;
+           width: 107px;
+           line-height: 42px;
+           margin-top: -8.5px;
+           font-family: Verdana;
+           font-size: 25px;
+           color: rgba(255,255,255,1);
+           text-transform: uppercase;
+   }
+   
+   
+   
